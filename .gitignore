@@ -1,0 +1,9 @@
+/myUnit/*.err
+/myUnit/*.out
+/myUnit/*.o
+/myUnit/*.bak
+/myUnit/*.ppu
+/pong/*.err
+/pong/*.out
+/pong/*.o
+/pong/*.exe
